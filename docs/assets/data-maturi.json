@@ -1,0 +1,138 @@
+[
+  {
+    "id": "12d_182",
+    "fileName": "dzi_eng_18_aug.pdf",
+    "language": "английски",
+    "type": "dzi",
+    "year": 2018,
+    "variant": 2,
+    "linkFromMon": "https://mon.bg/maturi/2018/dzi/english/2.pdf",
+    "date": "2018-08-29T00:00:00",
+    "audios": [],
+    "hasNoAudiosAvailable": true
+  },
+  {
+    "id": "12d_181",
+    "fileName": "dzi_eng_18_may.pdf",
+    "language": "английски",
+    "type": "dzi",
+    "year": 2018,
+    "variant": 1,
+    "linkFromMon": "https://mon.bg/maturi/2018/dzi/english/1.pdf",
+    "date": "2018-05-21T00:00:00",
+    "audios": [
+      {
+        "id": "1811",
+        "filename": "code_red_-_18_(dan_winter).mp3",
+        "speed": "normal",
+        "caption": "Code Red - 18 (Dan Winter Remix)"
+      },
+      {
+        "id": "1812",
+        "filename": "some_cool_track_anyways.mp3",
+        "speed": "normal",
+        "caption": "Some cool track anyways"
+      },
+      {
+        "id": "1813",
+        "filename": "usher_yeah.mp3",
+        "speed": "normal",
+        "caption": "Usher - Yeah"
+      }
+    ],
+    "hasNoAudiosAvailable": false
+  },
+  {
+    "id": "181n",
+    "fileName": "nvo_eng_18_may.pdf",
+    "language": "английски",
+    "type": "nvo",
+    "year": 2018,
+    "variant": 1,
+    "linkFromMon": "https://mon.bg/maturi/2018/dzi/english/1.pdf",
+    "date": "2018-05-21T00:00:00",
+    "audios": [
+      {
+        "id": "1811",
+        "filename": "code_red_-_18_(dan_winter).mp3",
+        "speed": "normal",
+        "caption": "Code Red - 18 (Dan Winter Remix)"
+      },
+      {
+        "id": "1812",
+        "filename": "some_cool_track_anyways.mp3",
+        "speed": "normal",
+        "caption": "Some cool track anyways"
+      },
+      {
+        "id": "1813",
+        "filename": "usher_yeah.mp3",
+        "speed": "normal",
+        "caption": "Usher - Yeah"
+      }
+    ],
+    "hasNoAudiosAvailable": false
+  },
+  {
+    "id": "172d",
+    "fileName": "dzi_eng_17_aug.pdf",
+    "language": "английски",
+    "type": "dzi",
+    "year": 2017,
+    "variant": 2,
+    "linkFromMon": "https://mon.bg/maturi/2017/dzi/english/2.pdf",
+    "date": "2017-05-26T00:00:00",
+    "audios": [
+      {
+        "id": "1721",
+        "filename": "1721.mp3",
+        "speed": "normal",
+        "caption": "Tea"
+      },
+      {
+        "id": "1722",
+        "filename": "1722.mp3",
+        "speed": "normal",
+        "caption": "The invention of hats"
+      },
+      {
+        "id": "1723",
+        "filename": "1723.mp3",
+        "speed": "normal",
+        "caption": "Maya Angelou’s book “I Know Why the Caged Bird Sings”"
+      }
+    ],
+    "hasNoAudiosAvailable": false
+  },
+  {
+    "id": "171d",
+    "fileName": "dzi_eng_17_may.pdf",
+    "language": "английски",
+    "type": "dzi",
+    "year": 2017,
+    "variant": 1,
+    "linkFromMon": "https://mon.bg/maturi/2017/dzi/english/1.pdf",
+    "date": "2017-05-21T00:00:00",
+    "audios": [
+      {
+        "id": "1711",
+        "filename": "1711.mp3",
+        "speed": "normal",
+        "caption": "An announcement for a preparatory university English course"
+      },
+      {
+        "id": "1712",
+        "filename": "1712.mp3",
+        "speed": "normal",
+        "caption": "A short talk on the early history of the Olympic Games"
+      },
+      {
+        "id": "1713",
+        "filename": "1713.mp3",
+        "speed": "normal",
+        "caption": "A  story about a famous lecture by a famous professor"
+      }
+    ],
+    "hasNoAudiosAvailable": false
+  }
+]

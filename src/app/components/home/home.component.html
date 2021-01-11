@@ -1,0 +1,11 @@
+<h1 *ngIf="!(selectedYear && selectedVariant)">Аудиозаписи към {{ selectedType | maturaType }} по {{ selectedLang | languageCode }}</h1>
+
+<!-- TODO: || selectedType -->
+<app-maturas-list *ngIf="!(selectedYear && selectedVariant)" 
+    [maturas]="maturas" [years]="years" [selectedType]="selectedType" 
+    [lang]="selectedLang" [selectedVariant]="selectedVariant"
+    [showBackButton]="(selectedYear || selectedVariant)"></app-maturas-list>
+    <!-- TODO: || selectedType -->
+
+<app-matura-item *ngIf="selectedYear && selectedVariant" [matura]="matura"></app-matura-item>
+<!-- TODO: || selectedType -->

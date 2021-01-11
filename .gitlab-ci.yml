@@ -1,0 +1,19 @@
+image: node:latest
+
+pages:
+  cache:
+    paths:
+    - node_modules/
+
+  stage: deploy
+  script:
+  - npm install -g @angular/cli@9.1.13
+  - npm install
+  - ng build --prod --output-path docs --base-href /matura-audios-prerelease/
+  - mkdir public
+  - mv docs/* public/
+  artifacts:
+    paths:
+    - public
+  only:
+  - website

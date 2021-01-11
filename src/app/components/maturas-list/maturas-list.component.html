@@ -1,0 +1,11 @@
+<div *ngFor="let year of years">
+    <h2>{{year}}</h2>
+    <!-- <div *ngFor="let maturaType of maturaTypes">{{ maturaType | maturaType }} -->
+        <app-maturas-list-item *ngFor="let matura of (maturas | maturaFilter:year)"
+        [matura]="matura">
+        </app-maturas-list-item>
+        <br>
+    <!-- </div> -->
+</div>
+
+<app-back-button *ngIf="showBackButton"></app-back-button>

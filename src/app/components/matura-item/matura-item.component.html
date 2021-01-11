@@ -1,0 +1,22 @@
+<div *ngIf="matura">
+  <h2>Аудиозаписи към {{matura.type | maturaType}} {{matura.language | languageCode}} от {{matura.date | date:'dd.MM.yyyy'}} (12 клас)</h2>
+  <small *ngIf="alternativeTypeMatura">Може би имахте предвид <a></a>{{alternativeTypeMatura.type}}
+    {{alternativeTypeMatura.language | languageCode}} от {{alternativeTypeMatura.date | date:'dd.MM.yyyy' }}</small>
+  
+  <p class="matura-metadata">Линк към матурата: <a [href]="matura.linkFromMon" target="_blank" rel="noopener noreferrer"> от МОН</a>, <a
+      [href]="audioFilesDir + matura.fileName" target="_blank" rel="noopener noreferrer">огледален</a></p>
+  
+  <p *ngIf="matura.hasNoAudiosAvailable">Във варианта на матурата, публикуван от МОН, липсват текстовете към задачите за слушане.</p>
+  
+  <div *ngFor="let audio of matura?.audios">
+    <label>{{audio.caption}}</label><br>
+    <audio controls>
+      <source [src]="audioFilesDir + audio.fileName" type="audio/mpeg">
+      Браузърът Ви не поддържа аудио елементи :/
+    </audio>
+  </div>
+</div>
+
+<br>
+
+<app-back-button></app-back-button>

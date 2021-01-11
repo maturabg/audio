@@ -1,0 +1,4 @@
+<a [routerLink]="['/', matura.language, matura.type, matura.year, matura.variant]">
+    {{ matura.type | maturaType }} от {{ matura.date | date: 'dd.MM.yyyy' }}</a>
+    <small *ngIf="matura.hasNoAudiosAvailable"> (няма налични записи)</small>
+    <br>
