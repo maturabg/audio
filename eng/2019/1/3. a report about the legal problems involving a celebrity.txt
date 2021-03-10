@@ -1,0 +1,27 @@
+<speak>Celebrity Faces Charges<break time="1000ms"/>
+Bear Grylls has landed himself in hot water and faces a potential fine after killing and cooking a frog while filming in a protected national park in Bulgaria.
+Grylls served with the British armed forces' elite Special Air Service before finding fame with a string of shows in the UK and the US in which he demonstrated survival techniques in inhospitable climates.
+The British adventure TV presenter filmed an episode of his Running Wild series in Bulgaria's Rila Mountains in 2017 alongside US ballroom dancer Derek Hough, and was seen gutting and cooking a frog.
+Bulgaria's Environment Ministry said yesterday that Grylls had violated the nature reserve's environmental regulations by killing the animal, swimming in a lake and lighting a fire in the open.
+"It is evident from the film material that during the shooting there were breaches to the regulations and rules of conduct in protected areas: entering and swimming in the water basin of the <lang xml:lang="ru-RU"><phoneme alphabet="ipa" ph="'kara'kaʃevo">Karakashevо</phoneme></lang> lake, lighting a fire, and catching and killing an animal," said a spokesperson for the Ministry.
+The Department reported that Grylls and his film crew had been briefed over the rules governing the park. It added that it would also investigate the park authority, in order to determine whether the officials who accompanied Grylls had failed to enforce the regulations.
+Grylls has faced sharp criticism in the past from conservationists and animal rights campaigners for his treatment of animals on screen. His shows have previously shown participants killing animals including pigs, turkeys and caiman crocodiles.
+Claire Bass, director of Humane Society International, UK, said that no animal should be killed as a result of celebrities playing "survival games" and it's time for TV to dump this tired routine of men charging around the wilderness dominating wildlife, killing for ratings and treating animals like mere props.
+David Attenborough, the renowned broadcaster and naturalist, has previously criticised Grylls for his treatment of animals, pointing out that his own nature shows would never "willingly kill" any animals in order to get a shot.
+Officials from the Department are considering fining Grylls and Hough up to twenty-five hundred euros, while the production companies could face a fine up to five thousand euros.
+</speak>
+
+
+<speak><p>Celebrity Faces Charges</p><break time="1250ms"/>
+
+<p>Bear Grylls has landed himself in hot water and faces a potential fine <break time="18ms"/> after killing and cooking a frog while filming in a protected national park in Bulgaria.</p>
+<p>Grylls served with the British armed forces&apos; elite Special Air Service<break time="17ms"/> before finding fame with a string of shows in the UK and the US <break time="7ms"/>in which he demonstrated survival techniques in inhospitable climates.</p>
+<p>The British adventure TV presenter filmed an episode of his Running Wild series in Bulgaria&apos;s Rila Mountains in 2017 <break time="14ms"/> alongside US ballroom dancer Derek Hough,<break time="3ms"/> and was seen gutting and cooking a frog.</p>
+<p>Bulgaria&apos;s Environment Ministry said yesterday that Grylls had violated the nature reserve&apos;s environmental regulations<break time="3ms"/> by killing the animal, swimming in a lake <break time="3ms"/>and lighting a fire in the open.</p>
+<p>&quot;It is evident from the film material that during the shooting there were breaches to the regulations and rules of conduct in protected areas: entering and swimming in the water basin of the Karakashevo lake, lighting a fire, and catching and killing an animal, &quot;said a spokesperson for the Ministry.</p>
+<p>The Department reported that Grylls and his film crew had been briefed over the rules governing the park. It added that it would also investigate the park authority, in order to determine whether the officials who accompanied Grylls had failed to enforce the regulations.</p>
+<p>Grylls has faced sharp criticism in the past from conservationists and animal rights campaigners for his treatment of animals on screen. His shows have previously shown participants killing animals including pigs, turkeys and caiman crocodiles.</p>
+<p>Claire Bass, director of Humane Society International, UK, said that no animal should be killed as a result of celebrities playing &quot;survival games&quot; and it&apos;s time for TV to dump this tired routine of men charging around the wilderness dominating wildlife, killing for ratings and treating animals like mere props.</p>
+<p>David Attenborough, the renowned broadcaster and naturalist, has previously criticised Grylls for his treatment of animals, pointing out that his own nature shows would never &quot;willingly kill&quot; any animals in order to get a shot.</p>
+<p>Officials from the Department are considering fining Grylls and Hough up to twenty-five hundred euros, while the production companies could face a fine up to five thousand euros.</p>
+</speak>

@@ -1,0 +1,38 @@
+<speak>Welcome to Eton College<break time="1000ms"/>
+Eton  College  is  one  of  the  most  famous  schools  in  the  world.  It  is  a  school  for  boys  only.  It's located in the small town of Eton, next to Windsor. Eton has educated 19 British prime ministers and  generations  of  the  aristocracy  and  has  been  referred  to  as &quot;the  chief  nurse  of  England's statesmen&quot;. Prince William and Prince Harry also studied at Eton College.
+Eton was founded by King Henry VI in 1440. The king was only 18 at that time. His aim was to give education to poor boys so that they could then go to Cambridge University. The chosen boys should &quot;have a good character, be good at reading, Latin grammar and singing.&quot; If they &quot;behaved badly, married, or became monks&quot; they had to leave.
+Life  in  Eton  was  hard.  Rats  ran  free  about  the  college,  boys  had  to  get  up  at  5  o&apos;clock  in  the morning and all lessons were in Latin.
+Today, Eton is the largest and most prestigious public school in Britain and is very expensive. To get into the college you have to pass entrance exams first.
+Eton  is  a  boarding  school  where  boys  live  and  study  away  from  home.  Each  boy  has  his  own small room with a bed and desk. There are a number of prefects – senior boys with various ranks and responsibilities in the house.
+Eton  students  wear  a  strange  old-fashioned  school  uniform.  It  consists  of  a  black  tailcoat,  black pin-striped trousers, a black waistcoat, well-polished black shoes, a stiff collar and a white tie. In the past, Eton students also wore a top-hat and a walking-cane.
+Teachers also wear a uniform, consisting of a white bow-tie, black jacket and striped trousers.
+Eton  gives  very  good  education.  Every  boy  takes  at  least  two  modern  languages.  Students  also study  Latin  for  at  least  one  year  and  many  choose  to  study  Greek  as  well.  Outside  the  main timetable they may choose Chinese or Arabic.
+At  college, there  are  about  fifty  societies  and  clubs.  Eton  is  famous  for  its  theatre.  Senior  boys may take part in military training. Students can do 30 different sports.
+A  personal  tutor  looks  after  the  progress  of  every  boy.  After  Eton, students  usually  go  to  top universities, such as Oxford or Cambridge.
+</speak>
+
+Welcome to Eton College
+Eton  College  is  one  of  the  most  famous  schools  in  the  world.  It  is  a  school  for  boys  only.  It's located in the small town of Eton, next to Windsor. Eton has educated 19 British prime ministers and  generations  of  the  aristocracy  and  has  been  referred  to  as &quot;the  chief  nurse  of  England's statesmen&quot;. Prince William and Prince Harry also studied at Eton College.
+Eton was founded by King Henry VI in 1440. The king was only 18 at that time. His aim was to give education to poor boys so that they could then go to Cambridge University. The chosen boys should &quot;have a good character, be good at reading, Latin grammar and singing.&quot; If they &quot;behaved badly, married, or became monks&quot; they had to leave.
+Life  in  Eton  was  hard.  Rats  ran  free  about  the  college,  boys  had  to  get  up  at  5  o&apos;clock  in  the morning and all lessons were in Latin.
+Today, Eton is the largest and most prestigious public school in Britain and is very expensive. To get into the college you have to pass entrance exams first.
+Eton  is  a  boarding  school  where  boys  live  and  study  away  from  home.  Each  boy  has  his  own small room with a bed and desk. There are a number of prefects – senior boys with various ranks and responsibilities in the house.
+Eton  students  wear  a  strange  old-fashioned  school  uniform.  It  consists  of  a  black  tailcoat,  black pin-striped trousers, a black waistcoat, well-polished black shoes, a stiff collar and a white tie. In the past, Eton students also wore a top-hat and a walking-cane.
+Teachers also wear a uniform, consisting of a white bow-tie, black jacket and striped trousers.
+Eton  gives  very  good  education.  Every  boy  takes  at  least  two  modern  languages.  Students  also study  Latin  for  at  least  one  year  and  many  choose  to  study  Greek  as  well.  Outside  the  main timetable they may choose Chinese or Arabic.
+At  college, there  are  about  fifty  societies  and  clubs.  Eton  is  famous  for  its  theatre.  Senior  boys may take part in military training. Students can do 30 different sports.
+A  personal  tutor  looks  after  the  progress  of  every  boy.  After  Eton, students  usually  go  to  top universities, such as Oxford or Cambridge.
+
+<speak>
+<p>Welcome to Eton College</p><break time="1250ms"/>
+<p>Eton  College  is  one  of  the  most  famous  schools  in  the  world. <break time="100ms"/>  It  is  a  school  for  boys  only.  It's located in the small town of Eton, next to Windsor. <break time="100ms"/> Eton has educated 19 British prime ministers and  generations  of  the  aristocracy  and  has  been  referred  to  as &quot;the  chief  nurse  of  England's statesmen&quot;. Prince William and Prince Harry also studied at Eton College.</p>
+<p>Eton was founded by King Henry VI in 1440. The king was only 18 at that time. His aim was to give education to poor boys <break time="50ms"/> so that they could then go to Cambridge University. <break time="100ms"/> The chosen boys should &quot;have a good character, be good at reading, Latin grammar and singing.&quot; If they &quot;behaved badly, married, or became monks&quot; they had to leave.</p>
+<p>Life  in  Eton  was  hard.  Rats  ran  free  about  the  college,  boys  had  to  get  up  at  5  o&apos;clock  in  the morning <break time="80ms"/> and all lessons were in Latin.</p>
+<p>Today, Eton is the largest and most prestigious public school in Britain and is very expensive. <break time="80ms"/>  To get into the college you have to pass entrance exams first.</p>
+<p>Eton  is  a  boarding  school  where  boys  live  and  study  away  from  home.  Each  boy  has  his  own small room with a bed and desk. There are a number of prefects – senior boys with various ranks and responsibilities in the house.</p>
+<p>Eton  students  wear  a  strange  old-fashioned  school  uniform.  It  consists  of  a  black  tailcoat,  black pin-striped trousers, a black waistcoat, well-polished black shoes, a stiff collar and a white tie. In the past, Eton students also wore a top-hat and a walking-cane.</p>
+<p>Teachers also wear a uniform, consisting of a white bow-tie, black jacket and striped trousers.</p>
+<p>Eton  gives  very  good  education.  Every  boy  takes  at  least  two  modern  languages.  Students  also study  Latin  for  at  least  one  year  and  many  choose  to  study  Greek  as  well.  <break time="50ms"/>Outside  the  main timetable they may choose Chinese or Arabic.</p>
+<p>At  college, there  are  about  fifty  societies  and  clubs.  <break time="100ms"/>Eton  is  famous  for  its  theatre.  Senior  boys may take part in military training. Students can do 30 different sports.</p>
+<p>A  personal  tutor  looks  after  the  progress  of  every  boy.  After  Eton, students  usually  go  to  top universities, such as Oxford or Cambridge.</p>
+</speak>

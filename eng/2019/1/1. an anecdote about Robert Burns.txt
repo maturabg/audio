@@ -1,0 +1,30 @@
+<speak>The Price of Life<break time="1000ms"/>
+Robert Burns, the great Scottish poet, loved common people and wrote for them. Though he had little formal education, he was well read and talented. He began to be recognized as a poet when his first poems were published in 1786. He was known as a very witty man.
+One  day  when  Burns  was  walking  near  the  docks,  he  heard  a  cry  for  help.  He  ran  towards  the water. At that moment he saw a young sailor jump off a boat that stood near the dock. The sailor began  to  swim  towards  the  man  who  was  calling  for  help.  Though  it  was  not  easy,  the  sailor saved the man.
+The  man  who  was  saved  from  drowning  was  a  very  rich  merchant.  He  thanked  the  brave  sailor and gave him a shilling. The sailor was embarrassed to receive payment for a good deed.
+A  large  crowd  of  people  gathered  round  them. Everyone considered  the  sailor  to  be  a  hero.  But they  were  displeased  when they  learned  that the  rich  man had  given the  brave  sailor only  a shilling.
+Many of the people shouted loudly and protested against this. But the rich merchant did not pay any attention to them.
+At  that moment  Robert  Burns  approached  the  crowd, wondering what  the  matter  was.  He  was told the whole story.
+Burns was not surprised at the behaviour of the rich merchant and said:
+"Let him alone. The gentleman is the best judge of what his life is worth.";
+</speak>
+
+The Price of Life
+Robert Burns, the great Scottish poet, loved common people and wrote for them. Though he had little formal education, he was well read and talented. He began to be recognized as a poet when his first poems were published in 1786. He was known as a very witty man.
+One  day  when  Burns  was  walking  near  the  docks,  he  heard  a  cry  for  help.  He  ran  towards  the water. At that moment he saw a young sailor jump off a boat that stood near the dock. The sailor began  to  swim  towards  the  man  who  was  calling  for  help.  Though  it  was  not  easy,  the  sailor saved the man.
+The  man  who  was  saved  from  drowning  was  a  very  rich  merchant.  He  thanked  the  brave  sailor and gave him a shilling. The sailor was embarrassed to receive payment for a good deed.
+A  large  crowd  of  people  gathered  round  them. Everyone considered  the  sailor  to  be  a  hero.  But they  were  displeased  when they  learned  that the  rich  man had  given the  brave  sailor only  a shilling.
+Many of the people shouted loudly and protested against this. But the rich merchant did not pay any attention to them.
+At  that moment  Robert  Burns  approached  the  crowd, wondering what  the  matter  was.  He  was told the whole story.
+Burns was not surprised at the behaviour of the rich merchant and said:
+"Let him alone. The gentleman is the best judge of what his life is worth.";
+
+<speak><p>The Price of Life</p><break time="1250ms"/>
+<p>Robert Burns, the great Scottish poet, loved common people and wrote for them. <break time="30ms"/> Though he had little formal education, he was well read and talented. <break time="100ms"/>He began to be recognized as a poet when his first poems were published in 1786. He was known as a very witty man.</p><break time="100ms"/>
+<p>One  day  when  Burns  was  walking  near  the  docks,  he  heard  a  cry  for  help.  <break time="50ms"/>He  ran  towards  the water. At that moment<break time="50ms"/> he saw a young sailor jump off a boat that stood near the dock. The sailor began  to  swim  towards  the  man <break time="50ms"/>  who  was  calling  for  help.  <break time="50ms"/>Though  it  was  not  easy,  the  sailor saved the man.</p><break time="50ms"/>
+<p>The  man  who  was  saved  from  drowning  was  a  very  rich  merchant.  He  thanked  the  brave  sailor and gave him a shilling. <break time="50ms"/> The sailor was embarrassed to receive payment for a good deed.</p>
+<p>A  large  crowd  of  people  gathered  round  them. Everyone considered  the  sailor  to  be  a  hero.  But they  were  displeased  when they  learned  that the  rich  man had  given the  brave  sailor only  a shilling.</p><break time="100ms"/>
+<p>Many of the people shouted loudly and protested against this. But the rich merchant did not pay any attention to them.</p>
+<p>At  that moment  Robert  Burns  approached  the  crowd, wondering what  the  matter  was.  He  was told the whole story.</p><break time="50ms"/>
+<p>Burns was not surprised at the behaviour of the rich merchant and said:</p>
+<p>&quot;Let him alone. The gentleman is the best judge of what his life is worth.&quot;</p></speak>
